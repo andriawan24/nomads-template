@@ -3,7 +3,7 @@ Web Design Nomads (Aplikasi hasil belajar dari BuildWith Angga)
 
 ### List Page
 - [x] Home Page
-- [ ] Detail Page
+- [x] Detail Page
 - [ ] Checkout Page
 
 ### Tools 

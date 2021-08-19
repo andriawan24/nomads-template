@@ -280,6 +280,11 @@ header .btn-get-started:hover {
   color: #B1B1B1;
 }
 
+.card-right {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
 .features {
   margin-top: 20px;
 }
@@ -323,5 +328,28 @@ header .btn-get-started:hover {
   border: 4px solid #1A4C93;
   -webkit-box-shadow: none;
           box-shadow: none;
+}
+
+.join-container {
+  margin-top: -16px;
+}
+
+.btn-join-now {
+  background-color: #FF9E53;
+  color: #fff;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.btn-join-now:hover {
+  background-color: #FFAA69;
+  color: #fff;
+}
+
+.members .member-image {
+  width: 40px;
+  height: 40px;
 }
 /*# sourceMappingURL=main.css.map */
