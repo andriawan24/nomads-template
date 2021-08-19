@@ -6,8 +6,12 @@ Web Design Nomads (Aplikasi hasil belajar dari BuildWith Angga)
 - [ ] Detail Page
 - [ ] Checkout Page
 
-### Tools 
+### Tools and Library
 - Adobe XD (Design)
 - InVision (Prototype)
 - Maze Design (Usability Testing)
 - Scss
+- Bootstrap (version 4.6)
+- Xzoom (Image preview library)
+- Retina (fixes image for retina display)
+- Jquery (Javascript simplify library)
