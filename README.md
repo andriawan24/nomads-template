@@ -4,7 +4,7 @@ Web Design Nomads (Aplikasi hasil belajar dari BuildWith Angga)
 ### List Page
 - [x] Home Page
 - [x] Detail Page
-- [ ] Checkout Page
+- [x] Checkout Page
 
 ### Tools and Library
 - Adobe XD (Design)
@@ -15,3 +15,4 @@ Web Design Nomads (Aplikasi hasil belajar dari BuildWith Angga)
 - Xzoom (Image preview library)
 - Retina (fixes image for retina display)
 - Jquery (Javascript simplify library)
+- Gijgo
