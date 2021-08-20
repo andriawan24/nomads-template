@@ -275,9 +275,96 @@ header .btn-get-started:hover {
   font-size: 20px;
 }
 
+.card-details h3 {
+  font-weight: 600;
+  font-size: 14px;
+  color: #071C4D;
+}
+
 .card-details p {
   font-size: 18px;
   color: #B1B1B1;
+}
+
+.card-details .text-total .text-blue {
+  color: #071C4D;
+  font-weight: bold;
+}
+
+.card-details .text-total .text-orange {
+  color: #FF9E53;
+  font-weight: bold;
+}
+
+.card-details .trip-informations th {
+  font-weight: 300;
+  font-size: 18px;
+  color: #071C4D;
+}
+
+.card-details .trip-informations td {
+  font-weight: 300;
+  font-size: 18px;
+  color: #B1B1B1;
+}
+
+.card-details .payment-instructions {
+  font-weight: 300;
+  font-size: 14px;
+  color: #B1B1B1;
+}
+
+.card-details .bank .bank-item h3 {
+  font-size: 18px;
+  color: #071C4D;
+  margin-bottom: 0;
+  font-weight: 300;
+}
+
+.card-details .bank .bank-item p {
+  margin-bottom: 0;
+  font-weight: normal;
+  font-size: 16px;
+  color: #071C4D;
+  font-weight: 300;
+}
+
+.card-details .bank .bank-item .description {
+  margin-left: 10px;
+  overflow: hidden;
+  float: left;
+}
+
+.card-details .bank .bank-image {
+  width: 45px;
+  height: 45px;
+  float: left;
+}
+
+.card-details .disclaimer {
+  font-weight: 300;
+  font-size: 14px;
+  color: #B1B1B1;
+}
+
+.card-details .gj-datepicker .datepicker {
+  border-right: 0;
+}
+
+.card-details .gj-datepicker .input-group-append .btn {
+  padding-right: 30px;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.card-details .btn-add-now {
+  background-color: #071C4D;
+  color: #fff;
+}
+
+.card-details .btn-add-now:hover {
+  background-color: #1E3771;
+  color: #fff;
 }
 
 .card-right {
@@ -351,5 +438,38 @@ header .btn-get-started:hover {
 .members .member-image {
   width: 40px;
   height: 40px;
+}
+
+.section-success-checkout {
+  height: 90vh;
+}
+
+.section-success-checkout .image-success-checkout {
+  width: 220px;
+  height: 220px;
+}
+
+.section-success-checkout h3 {
+  font-size: 24px;
+  color: #071C4D;
+  font-weight: 600;
+}
+
+.section-success-checkout p {
+  font-weight: 300;
+  font-size: 16px;
+  color: #B1B1B1;
+}
+
+.section-success-checkout .btn-success-checkout {
+  background-color: #071C4D;
+  color: #fff;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.section-success-checkout .btn-success-checkout:hover {
+  background-color: #1E3771;
+  color: #fff;
 }
 /*# sourceMappingURL=main.css.map */
